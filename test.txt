@@ -1,1 +1,2 @@
 This is the first line in test.txt on master.
+Added a line.
